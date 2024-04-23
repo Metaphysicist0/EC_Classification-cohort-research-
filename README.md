@@ -19,7 +19,6 @@ This repository explores image classification tasks using various popular deep l
 
 **Getting Started:**
 
-1.  **Clone the repository:** `git clone https://github.com/your-username/your-repo.git`
-2.  **Install dependencies:** Create a virtual environment and install the required libraries.
-3.  **Dataset preparation:** Organize image data into appropriate folders for training, validation, and testing. (See the given txt)
-4.  **Run the scripts:**  Follow the instructions within each model's folder to train and evaluate the models. 
+1.  **Install dependencies:** Create a virtual environment and install the required libraries.
+2.  **Dataset preparation:** Organize image data into appropriate folders for training, validation, and testing. (See the given txt)
+3.  **Run the scripts:**  Follow the instructions within each model's folder to train and evaluate the models. 
